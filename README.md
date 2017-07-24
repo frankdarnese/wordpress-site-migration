@@ -109,7 +109,7 @@ You need to clone from GitHub or download through FTP the existing theme into yo
 ```TXT
 cd wp-content/themes && rm -rf twenty*
 mkdir your-theme && cd your-theme
-git clone git@github.com:harryfinn/wordpress-skeleton.git .
+git clone git@github.com:frankdarnese/wordpress-site-migration.git
 ```
 or
 
