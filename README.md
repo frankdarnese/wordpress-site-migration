@@ -1,6 +1,6 @@
 # WordPress Live/Local Site Migration
 
-## Prerequisites
+### Prerequisites
 
 Before you follow this steps please ensure that the <a href="https://www.mamp.info/en/">MAMP</a> stack have been installed. Please also ensure that you have WP-CLI installed [see instructions below](#3).
 
