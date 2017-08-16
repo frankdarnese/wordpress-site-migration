@@ -74,7 +74,7 @@ UPDATE wp_posts SET post_content = replace(post_content, 'http://www.localhost:8
 UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.localhost:8888/testing','http://www.live-website.com');
 ```
 
-Alternatively use this nice and easy script <a href="https://codepen.io/FDarnese/pen/OjJLya">link here</a> that takes the old and new URLs and hands you the sql code for the WordPress swap.
+Alternatively use this nice and easy script <a href="https://codepen.io/FDarnese/full/OjJLya">link here</a> that takes the old and new URLs and hands you the sql code for the WordPress swap.
 
 ### <a name="3">3. Installing WP-CLI
 
